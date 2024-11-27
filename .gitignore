@@ -26,7 +26,6 @@ tmp/
 .env
 
 # Project build
-main
 *templ.go
 
 # OS X generated file
