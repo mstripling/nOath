@@ -1,6 +1,6 @@
 # Project nOauth
 
-One Paragraph of project description goes here
+Wrapper around OAuth 2.0 protocol. 
 
 ## Getting Started
 
