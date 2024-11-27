@@ -1,0 +1,6 @@
+- post to nOauth
+- nOauth processes request
+- nOauth makes request to auth server
+- nOauth receives access token
+- nOauth creates new request with access token
+- nOauth relays response to SF
