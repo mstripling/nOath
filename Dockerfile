@@ -15,5 +15,5 @@ ENV PORT=80
 EXPOSE 80
 
 # Command to run the application
-ENTRYPOINT [/app/main]
+ENTRYPOINT ["/app/main"]
 
